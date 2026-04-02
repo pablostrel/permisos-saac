@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Círculo amarillo como el logo MAUX -->
+  <circle cx="32" cy="32" r="30" fill="#F0A800" stroke="#C8281A" stroke-width="3"/>
+  <!-- Flor de lis roja estilizada -->
+  <text x="32" y="42" font-family="serif" font-size="28" font-weight="900"
+        fill="#C8281A" text-anchor="middle">⚜</text>
+</svg>
